@@ -22,11 +22,11 @@ ChartJS.register(
 
 const Home = () => {
   const data = {
-    labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August'],
+    labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September'],
     datasets: [
       {
         label: 'Sales',
-        data: [1200, 1900, 2400, 3000, 3500, 5000, 5500, 6000],
+        data: [1200, 1900, 2400, 3000, 3500, 5000, 5500, 6000, 6500],
         backgroundColor: 'rgba(75, 192, 192, 0.6)',
       },
     ],
