@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React.git/static/css/main.1fe94900.css",
-    "main.js": "/React.git/static/js/main.4f83db45.js",
-    "static/js/453.785134cd.chunk.js": "/React.git/static/js/453.785134cd.chunk.js",
-    "static/media/LGTV.jpeg": "/React.git/static/media/LGTV.c1d700d14d210d49f523.jpeg",
-    "static/media/pro.jpg": "/React.git/static/media/pro.dba2a9b367d0c29d79ae.jpg",
-    "static/media/SSTV.jpeg": "/React.git/static/media/SSTV.13f13f23e41c5f655aec.jpeg",
-    "static/media/STV.jpeg": "/React.git/static/media/STV.cc66d201de628fa93bff.jpeg",
-    "index.html": "/React.git/index.html",
-    "main.1fe94900.css.map": "/React.git/static/css/main.1fe94900.css.map",
-    "main.4f83db45.js.map": "/React.git/static/js/main.4f83db45.js.map",
-    "453.785134cd.chunk.js.map": "/React.git/static/js/453.785134cd.chunk.js.map"
+    "main.css": "/React/static/css/main.1fe94900.css",
+    "main.js": "/React/static/js/main.4ceea5bc.js",
+    "static/js/453.785134cd.chunk.js": "/React/static/js/453.785134cd.chunk.js",
+    "static/media/LGTV.jpeg": "/React/static/media/LGTV.c1d700d14d210d49f523.jpeg",
+    "static/media/pro.jpg": "/React/static/media/pro.dba2a9b367d0c29d79ae.jpg",
+    "static/media/SSTV.jpeg": "/React/static/media/SSTV.13f13f23e41c5f655aec.jpeg",
+    "static/media/STV.jpeg": "/React/static/media/STV.cc66d201de628fa93bff.jpeg",
+    "index.html": "/React/index.html",
+    "main.1fe94900.css.map": "/React/static/css/main.1fe94900.css.map",
+    "main.4ceea5bc.js.map": "/React/static/js/main.4ceea5bc.js.map",
+    "453.785134cd.chunk.js.map": "/React/static/js/453.785134cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fe94900.css",
-    "static/js/main.4f83db45.js"
+    "static/js/main.4ceea5bc.js"
   ]
 }
