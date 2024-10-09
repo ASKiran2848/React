@@ -43,7 +43,7 @@ function App() {
           </Col>
           <Col xs={10} className="p-3">
             <Routes>
-              <Route path="/" element={<Home />} />
+              <Route path="/React" element={<Home />} />
               <Route path="/services" element={<Services />} />
               <Route path="/about" element={<About />} />
               <Route path="/contact" element={<Contact />} />

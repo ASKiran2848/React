@@ -65,7 +65,7 @@ const SideNav = () => {
           {/* Navigation Links */}
             <Nav className="flex-column" style={{ width: '100%', textAlign: 'center' }}>
             <Nav.Link as={Link} to="/about" className="sidenav-link">About</Nav.Link><br />
-            <Nav.Link as={Link} to="/" className="sidenav-link">Home</Nav.Link><br />
+            <Nav.Link as={Link} to="/React" className="sidenav-link">Home</Nav.Link><br />
             <Nav.Link as={Link} to="/Products" className="sidenav-link">Products</Nav.Link><br />
             <Nav.Link as={Link} to="/Cart" className="sidenav-link">Cart</Nav.Link><br />
             <Nav.Link as={Link} to="/services" className="sidenav-link">Services</Nav.Link><br />
