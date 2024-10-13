@@ -49,7 +49,7 @@ const Products = ({ addToCart }) => {
   return (
     <div className="products-container">
       <h2>Our Products</h2>
-      <h6>Click on image  enlarge product.</h6>
+      <h6>Click on image to enlarge product.</h6>
       {message && <div className="alert alert-success">{message}</div>}
       <div className="product-grid">
         {products.map((product) => (
